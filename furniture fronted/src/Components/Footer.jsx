@@ -150,7 +150,7 @@ function Footer() {
                 <p className="mb-2 text-center text-lg-start">
                   Copyright © . All Rights Reserved. — Designed with love by{" "}
                   <a href="https://untree.co">Untree.co</a> Distributed By{" "}
-                  <a hreff="https://themewagon.com">Akanksha Gaur</a>
+                  <a href="https://akankshagaur00.github.io/Portfolio/">Akanksha Gaur</a>
                   {/* License information: https://untree.co/license/ */}
                 </p>
               </div>
